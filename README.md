@@ -1,16 +1,30 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&width=435&lines=Olá!+%F0%9F%91%8B;Eu+me+chamo+Bruno!+%F0%9F%98%81;Sou+Desenvolvedor+Full-Stack;Especialista+em+PHP+e+JS)](https://git.io/typing-svg)
 
-<!--
-**brunoribeiro-lab/brunoribeiro-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>👩🏽‍💻 Sobre mim: </h1>
 
-Here are some ideas to get you started:
+- 🎓 **Graduando em Engenharia de Software** (EAD – 2024–2028)
+- 🧠 **Experiência prática com:** sistemas de alta escala, arquitetura serverless, filas assíncronas, cache distribuído e segurança de aplicações
+- 🔁 **Especialista em:** modernização de legados, testes automatizados, monitoramento com Grafana/Prometheus/Datadog e automação de infraestrutura com Terraform
+- 💬 Gosto de resolver problemas complexos com soluções simples e eficazes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2>☕ Minhas Habilidades: </h2>
+
+<div align="center">
+  
+  [![My Skills](https://skillicons.dev/icons?i=php,python,django,laravel,nextjs,html,css,js,ts,jquery,react,tailwind,nodejs,docker,mysql,postgres,linux,mongodb,aws,git,bash)](https://skillicons.dev)
+  
+</div>
+
+<hr>
+
+<!-- GitHub Stats -->
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=brunoribeiro-lab&show_icons=true&count_private=true&hide_border=true&title_color=B253FF&icon_color=B253FF&text_color=c9d1d9&bg_color=0d1117" alt="Bruno Ribeiro GitHub stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoribeiro-lab&layout=compact&hide_border=true&title_color=B253FF&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
+<div><h2>📱 Redes sociais: </h2>
+  <a href="https://www.linkedin.com/in/bruno-ribeiro-46675922a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=devbox&logoColor=white" target="_blank"></a>
+  <a href = "mailto:bruno.ribeiro.lab@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
